@@ -1,0 +1,8 @@
+{
+  "name": "P1 English Quiz",
+  "short_name": "P1 Quiz",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3498db"
+}
